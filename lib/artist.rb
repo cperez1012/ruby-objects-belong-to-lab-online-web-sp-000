@@ -4,5 +4,5 @@ class Artist
 
   def initalize
     @name = name
-  end 
-end 
+  end
+end
